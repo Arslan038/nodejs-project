@@ -1,0 +1,7 @@
+File from: [/../images/manager_images/20190505_174114.jpg.{jpg,JPG,jpeg,JPEG,png,svg,gif}]
+
+File to: [/../images/manager_images/20190505_174114.jpg.{jpg,JPG,jpeg,JPEG,png,svg,gif}]
+
+Compression algorithm: [-]
+
+Description: File is not exists!

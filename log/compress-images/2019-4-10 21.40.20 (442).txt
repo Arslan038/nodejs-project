@@ -1,0 +1,7 @@
+File from: [/../images/manager_images/.{jpg,JPG,jpeg,JPEG,png,svg,gif}]
+
+File to: [/../images/manager_images/.{jpg,JPG,jpeg,JPEG,png,svg,gif}]
+
+Compression algorithm: [-]
+
+Description: File is not exists!
